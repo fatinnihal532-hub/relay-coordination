@@ -1,0 +1,5 @@
+relay,ct_primary_a,load_a,pickup_a,plug_setting,curve,tms,inst_a
+Incomer (transformer LV),1200,1050,1320.0,1.10,SI,0.11,
+Feeder breaker,400,394,600.0,1.50,SI,0.12,3532
+Recloser A,300,236,360.0,1.20,SI,0.10,1883
+Recloser B,150,105,157.5,1.05,SI,0.05,

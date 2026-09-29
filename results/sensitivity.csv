@@ -1,0 +1,5 @@
+relay,zone_end,min_fault_over_pickup
+Incomer (transformer LV),SS 11 kV bus,3.83
+Feeder breaker,Section A,3.28
+Recloser A,Section B,3.03
+Recloser B,Section C,4.50

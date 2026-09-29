@@ -1,0 +1,4 @@
+upstream,downstream,min_cti_s
+Incomer (transformer LV),Feeder breaker,0.311
+Feeder breaker,Recloser A,0.310
+Recloser A,Recloser B,0.342
